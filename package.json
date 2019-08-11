@@ -1,0 +1,22 @@
+{
+  "name": "inventory_case",
+  "version": "1.0.0",
+  "description": "My astonishing Nuxt.js project",
+  "author": "Takeshi Hayakawa",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "firebase": "^6.3.5",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "node-sass": "^4.12.0",
+    "nodemon": "^1.18.9",
+    "sass-loader": "^7.1.0"
+  }
+}
